@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Test App 01</string>
+    <string name="bmi_calculator">BMI calculator</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="age">age</string>
+    <string name="calculate">calculate</string>
+    <string name="BMI_result">BMI result</string>
+    <string name="recalculate">recalculate</string>
+    <string name="error">error</string>
+
+    <string name="low_weight_title">Low weight</string>
+    <string name="low_weight_description">You are under your optimal weight</string>
+
+    <string name="normal_weight_title">Normal weight</string>
+    <string name="normal_weight_description">Congratulations, you are in your optimal weight</string>
+
+    <string name="high_weight_title">High weight</string>
+    <string name="high_weight_description">You are over your optimal weight</string>
+
+    <string name="obesity1_weight_title">Grade 1 obesity weight</string>
+    <string name="obesity1_weight_description">You have grade 1 obesity</string>
+
+    <string name="obesity2_weight_title">Grade 2 obesity weight</string>
+    <string name="obesity2_weight_description">You have grade 2 obesity</string>
+
+    <string name="obesity3_weight_title">Grade 3 obesity weight</string>
+    <string name="obesity3_weight_description">You have grade 3 obesity</string>
+</resources>
